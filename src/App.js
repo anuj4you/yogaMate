@@ -1,13 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./Navbar";
 
 function App() {
   return (
     <div>
-
-<div className="header">
-  <h1>Hello Yoga Root!</h1>
-</div>
+      <div className="header">
+        <Navbar />
+        <h1>Hello Yoga Root!</h1>
+      </div>
     </div>
   );
 }
