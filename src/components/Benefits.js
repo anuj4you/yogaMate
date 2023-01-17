@@ -18,40 +18,40 @@ export default function Benefits() {
       </p>
 
       <div className="cards flex flex-wrap justify-evenly my-4 mx-3 ">
-        <div className="  flex flex-col justify-center text-center shadow-md  max-w-sm p-4 bg-white border border-gray-200 rounded-lg  hover:bg-[#ceb1a6] dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <div className=" my-3 flex flex-col justify-center text-center shadow-md  max-w-sm p-4 bg-white border border-gray-200 rounded-lg  hover:bg-[#ceb1a6] dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           
         <img src={pose8} alt="pic" style={{width:"27%", margin:"auto"}} />
-          <h5 className="mb-2 text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+          <h5 className="mb-2 text-xl font-semibold tracking-tight text-[#513125] dark:text-white">
             Strong Body Life
           </h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum labore placeat provident.
           </p>
         </div>
-        <div className="  flex flex-col justify-center text-center shadow-md  max-w-sm p-4 bg-white border border-gray-200 rounded-lg  hover:bg-[#ceb1a6] dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <div className=" my-3 flex flex-col justify-center text-center shadow-md  max-w-sm p-4 bg-white border border-gray-200 rounded-lg  hover:bg-[#ceb1a6] dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           
         <img src={pose3} alt="pic" style={{width:"27%", margin:"auto"}} />
-          <h5 className="mb-2 text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+          <h5 className="mb-2 text-xl font-semibold tracking-tight text-[#513125] dark:text-white">
             Increased Flexibility
           </h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum labore placeat provident.
           </p>
         </div>
-        <div className="  flex flex-col justify-center text-center shadow-md  max-w-sm p-4 bg-white border border-gray-200 rounded-lg  hover:bg-[#ceb1a6] dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <div className=" my-3 flex flex-col justify-center text-center shadow-md  max-w-sm p-4 bg-white border border-gray-200 rounded-lg  hover:bg-[#ceb1a6] dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           
         <img src={pose5} alt="pic" style={{width:"27%", margin:"auto"}} />
-          <h5 className="mb-2 text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+          <h5 className="mb-2 text-xl font-semibold tracking-tight text-[#513125] dark:text-white">
             Increases Blood Flow
           </h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum labore placeat provident.
           </p>
         </div>
-        <div className="  flex flex-col justify-center text-center shadow-md  max-w-sm p-4 bg-white border border-gray-200 rounded-lg  hover:bg-[#ceb1a6] dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <div className=" my-3 flex flex-col justify-center text-center shadow-md  max-w-sm p-4 bg-white border border-gray-200 rounded-lg  hover:bg-[#ceb1a6] dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
           
         <img src={pose2} alt="pic" style={{width:"27%", margin:"auto"}} />
-          <h5 className="mb-2 text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+          <h5 className="mb-2 text-xl font-semibold tracking-tight text-[#513125] dark:text-white">
             Drops Blood Pressure
           </h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
