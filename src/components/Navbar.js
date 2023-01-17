@@ -4,7 +4,7 @@ export default function Navbar() {
   var logo = require("../images/logo.png");
 
   return (
-    <div className=" text-[#513125] bg-orange-100 w-full font-bold flex items-center px-4 py-2 ">
+    <div className=" shadow-lg text-[#513125] bg-orange-100 w-full font-bold flex items-center px-4 py-2 ">
       <img src={logo} alt="logo" style={{ width: "50px", height: "50px" }} className="mx-1" />
       <div className=" flex justify-between w-full">
         <h1 className=" font-bold text-3xl mx-1">Yoga Roots</h1>
