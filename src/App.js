@@ -1,3 +1,7 @@
+import AboutUs from "./components/AboutUs";
+import Benefits from "./components/Benefits";
+import Footer from "./components/Footer";
+import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 
 function App() {
@@ -5,7 +9,10 @@ function App() {
     <div>
       <div className="header">
         <Navbar />
-        <h1>Hello Yoga Root!</h1>
+        <Hero/>
+        <Benefits/>
+        <AboutUs/>
+        <Footer/>
       </div>
     </div>
   );
