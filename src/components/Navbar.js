@@ -9,16 +9,16 @@ export default function Navbar() {
       <div className=" flex justify-between w-full">
         <h1 className=" font-bold text-3xl mx-1">Yoga Roots</h1>
         <ul className=" flex items-center">
-          <li className=" px-4 mx-1 hover: cursor-pointer hover:text-xl ">
+          <li className=" px-4 mx-1 text-xl hover: cursor-pointer hover:text-2xl ">
             Home
           </li>
-          <li className=" px-4 mx-1 hover: cursor-pointer hover:text-xl ">
+          <li className=" px-4 mx-1 text-xl hover: cursor-pointer hover:text-2xl ">
             About Us
           </li>
-          <li className=" px-4 mx-1 hover: cursor-pointer hover:text-xl">
+          <li className=" px-4 mx-1 text-xl hover: cursor-pointer hover:text-2xl">
             Contact
           </li>
-          <li className=" px-4 mx-1 hover: cursor-pointer hover:text-xl">
+          <li className=" px-4 mx-1 text-xl hover: cursor-pointer hover:text-2xl">
             Pricing
           </li>
         </ul>
