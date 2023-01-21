@@ -1,5 +1,5 @@
 # Yoga Root
-landing page for Yoga website classes and more exclusive content.
+landing page for Yoga website classes and more exclusive content. (Work under progress still to make responsive)
 
 ![Screen Shot 2023-01-17 at 10 34 45 PM](https://user-images.githubusercontent.com/84407032/213077683-1d8d0a58-a172-4d3f-9209-43f1b9dd9817.png)
 ![Screen Shot 2023-01-17 at 10 34 54 PM](https://user-images.githubusercontent.com/84407032/213077695-7ff94153-c9c2-4bfd-88ad-e775f44fc273.png)
